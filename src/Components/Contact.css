@@ -1,0 +1,24 @@
+.app-container {
+  padding: 1px 20px 1px 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 8px;
+  font-size: 14px;
+}
+
+th {
+  background-color: rgb(155, 211, 243);
+}
+
+td {
+  background-color: rgb(205, 235, 253);
+}
