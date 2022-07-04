@@ -1,6 +1,5 @@
 // import logo from "./logo.svg";
 import { useEffect, useState } from "react";
-import "./App.css";
 import Contact from "./Components/Contact";
 import Table from "./Components/Table";
 import { GetOrgDetailsByDomain } from "./service/service";
